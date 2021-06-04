@@ -1,0 +1,11 @@
+During project development please keep log here of any changes you have made.
+
+On version changes please follow the Semantic Versioning rules, in detail
+described here: https://semver.org
+
+
+VERSION   RELEASE DATE  AUTHOR      DESCRIPTION
+------------------------------------------------------------------------------
+1.0.0     20 May 2019   WiseToad    Initial release
+2.0.0     23 Dec 2019   WiseToad    Add organization matchcoding
+2.0.1     04 Jun 2021   WiseToad    Prepare for publication at GitHub
